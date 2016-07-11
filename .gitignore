@@ -1,0 +1,12 @@
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+Library
+*.userprefs
+Temp
+out
+obj
+*.suo
+*.sln
+*.csproj
+*.csproj.user
+Assets/UnityVS/
